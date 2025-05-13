@@ -26,13 +26,6 @@ I'm **Wiam**, a passionate full-stack developer who loves building smart solutio
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
-### 🐍 Watch my contributions get eaten by a snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wiam-B/Wiam-B/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wiam-B/Wiam-B/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Wiam-B/Wiam-B/output/github-snake.svg" />
-</picture>
 
 
 ### 📫 Get in touch
