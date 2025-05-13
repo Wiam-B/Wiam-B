@@ -15,7 +15,6 @@ I'm **Wiam**, a passionate full-stack developer who loves building smart solutio
 ### 🛠️ Technologies I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
